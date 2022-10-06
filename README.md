@@ -44,7 +44,7 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OuyangJunyuan&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28">
     </td>
     <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=OuyangJunyuan&show_icons=true&hide_title=truelayout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28">
+        <img src="https://github-readme-stats.vercel.app/api?username=Shirleytyf&show_icons=true&hide_title=truelayout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28">
           </td>
     <td align="center">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=OuyangJunyuan&theme=radical">
