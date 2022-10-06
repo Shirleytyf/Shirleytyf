@@ -1,8 +1,8 @@
 <h1 align="center">WELCOME TO MY GITHUB PROFILE </h1>
 
 
-<h2 align="center">About </h2>
-<p align="center">
+<h2 align="left">About </h2>
+<p align="left">
     Tan Yuanfang, a graduate student at MAS-lab, HITsz.
 </p>
 
