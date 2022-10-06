@@ -44,10 +44,10 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shirleytyf&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28">
     </td>
     <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Shirleytyf&show_icons=true&hide_title=truelayout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28">
+        <img src="https://github-readme-stats.vercel.app/api?username=Shirleytyf&theme=material-palenight&show_icons=true">
           </td>
     <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shirleytyf&theme=merko">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shirleytyf&theme=material-palenight">
     </td>
   </tr>
 </table>
