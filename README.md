@@ -41,7 +41,7 @@
 
 <table align="center" width="100%">
     <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shirleytyf&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shirleytyf&layout=compact&title_color=c792ea&text_color=a6accd&icon_color=89ddff&bg_color=292d3e">
     </td>
     <td align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=Shirleytyf&show_icons=true&hide_title=truelayout=compact&title_color=c792ea&text_color=a6accd&icon_color=89ddff&bg_color=292d3e">
