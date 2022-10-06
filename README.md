@@ -44,7 +44,7 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shirleytyf&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28">
     </td>
     <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Shirleytyf&theme=material-palenight&show_icons=true">
+        <img src="https://github-readme-stats.vercel.app/api?username=Shirleytyf&theme=dark&show_icons=true">
           </td>
     <td align="center">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shirleytyf&theme=material-palenight">
