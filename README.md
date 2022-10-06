@@ -7,9 +7,9 @@
 </p>
 
 
-*  🤖: Focusing on multi-agent system & UAV formation
-*  🐦: ros development rookie
-*  💪: Passionate about file configuration
+*  🤖: Focusing on multi-agent system & UAV formation.
+*  🐦: ros development rookie.
+*  💪: Passionate about file configuration.
 
 <table align="center" width="100%">
     <td align="center">
