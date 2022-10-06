@@ -1,4 +1,4 @@
-<h1 align="center">HI THERE! WELCOME TO MY GITHUB PROFILE 👋</h1>
+<h1 align="center">HI , WELCOME TO MY GITHUB PROFILE </h1>
 <div align="center">
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/iranparrot.gif" width="25" height="25"/>
@@ -31,13 +31,13 @@
 
 <h2 align="center">About </h2>
 <p align="center">
-    Ouyang Junyuan, a graduate student at nROS-lab, HITsz.
+    Tan Yuanfang, a graduate student at MAS-lab, HITsz.
 </p>
 
 
-*  :orange_book: Focusing on Robotic & Autonomous Driving
-*  :ram: 3D Perception Rookie
-*  :meat_on_bone: C++ lover 
+*  🤖: Focusing on Robotic & formation
+*  🐦: ros development rookie
+*  💪: Focus on file configuration
 
 <table align="center" width="100%">
     <td align="center">
