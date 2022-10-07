@@ -8,7 +8,7 @@
 
 
 *  🤖: Focusing on multi-agent system & UAV formation.
-*  🐦: ros development rookie.
+*  🐦: Ros development rookie.
 *  💪: Passionate about file configuration.
 
 <table align="center" width="100%">
